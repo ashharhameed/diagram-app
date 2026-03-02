@@ -28,5 +28,5 @@ npm run build
 
 ## Roadmap
 - [ ] Azure Blob Storage save/load
-- [ ] User accounts
+- [ ] User accounts using OAuth2
 - [ ] Export to PNG
